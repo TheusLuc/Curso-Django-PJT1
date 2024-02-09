@@ -1,1 +1,0 @@
-print('NOVO AS')
